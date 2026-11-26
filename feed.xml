@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Книжный блог</title>
+<link>https://katerinamakart.github.io/read-rk-book/</link>
+<description>Книги, стихи, иллюстрации и авторские проекты</description>
+<language>ru</language>
+<item>
+<title>Творческие новости</title>
+<link>https://katerinamakart.github.io/read-rk-book/#news-001</link>
+<guid isPermaLink="false">read-rk-book-test-001</guid>
+<description>Совсем скоро здесь появятся новые истории, иллюстрации и новости моих творческих проектов.</description>
+<pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Книжный блог</title>
 <link>https://katerinamakart.github.io/read-rk-book/</link>
 <description>Книги, стихи, иллюстрации и авторские проекты</description>
 <language>ru</language>
-<lastBuildDate>Thu, 26 Nov 2026 13:43:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 17:09:34 GMT</lastBuildDate>
+<item>
+<title>Знаешь ли ты?</title>
+<guid isPermaLink="false">read-rk-book-snowflake-003</guid>
+<description><![CDATA[<img src="https://katerinamakart.github.io/read-rk-book/614A7E24-48CA-4A2B-9C16-FF3B76E4B196.png" alt=""/>]]></description>
+<enclosure url="https://katerinamakart.github.io/read-rk-book/614A7E24-48CA-4A2B-9C16-FF3B76E4B196.png" length="3690903" type="image/png"/>
+<media:content url="https://katerinamakart.github.io/read-rk-book/614A7E24-48CA-4A2B-9C16-FF3B76E4B196.png" type="image/png" medium="image" fileSize="3690903"/>
+<pubDate>Thu, 26 Nov 2026 17:09:34 GMT</pubDate>
+</item>
 <item>
 <title>Творческие планы</title>
 <link>https://katerinamakart.github.io/read-rk-book/#news-002</link>
